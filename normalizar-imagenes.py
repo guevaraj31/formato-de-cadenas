@@ -1,4 +1,5 @@
-#!/usr/python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 ## Normaliza el nombre de 
 ## las imagenes
 
